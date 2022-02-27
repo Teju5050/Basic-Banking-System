@@ -1,0 +1,14 @@
+@@ -42,6 +42,7 @@ body{
+}
+.container{
+    text-align: center;
+    background-color:thistle;
+}
+.t-first{
+    background-color:cyan;
+@@ -54,4 +55,4 @@ color: red;
+}
+button.btn.btn-danger:hover{
+    color: red;
+    } 
+    }
